@@ -1,6 +1,7 @@
 arrow==0.7.0
 beautifulsoup4==4.4.1
 disqus==0.0.4
+dj-database-url==0.4.1
 Django==1.8.9
 django-debug-toolbar==1.4
 django-disqus==0.5
